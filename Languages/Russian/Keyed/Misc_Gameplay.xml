@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<WDYS.CommandShowSettlementGoods>Показать товар в наличии</WDYS.CommandShowSettlementGoods>
+	<WDYS.CommandShowSettlementGoodsDesc>Показать товары, имеющиеся у торговца в наличии.</WDYS.CommandShowSettlementGoodsDesc>
+	<WDYS.WindowTitle>Торговый запас поселения {0}</WDYS.WindowTitle>
+	<WDYS.SearchBar>Поиск товара: </WDYS.SearchBar>
+	<WDYS.MarketValue>Рыночная стоимость. Это значение не учитывает потенциальное влияние на цену ваших поселенцев.</WDYS.MarketValue>
+	<WDYS.Quit>Закрыть</WDYS.Quit>
+	<WDYS>What's For Sale?</WDYS>
+
+	<WDYS.OnlyIndustrial>Только фракции индустриального технического уровня и выше могут отправлять вам информацию о своих торговых запасах</WDYS.OnlyIndustrial>
+	<WDYS.NeedTradeConsole>Для получения информации о торговых запасах необходима консоль связи</WDYS.NeedTradeConsole>
+
+</LanguageData>

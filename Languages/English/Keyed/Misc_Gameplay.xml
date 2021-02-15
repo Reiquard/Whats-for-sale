@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<WDYS.CommandShowSettlementGoods>What's for sale?</WDYS.CommandShowSettlementGoods>
+	<WDYS.CommandShowSettlementGoodsDesc>Show what this settlement sell.</WDYS.CommandShowSettlementGoodsDesc>
+	<WDYS.WindowTitle>{0} current trade stock</WDYS.WindowTitle>
+	<WDYS.SearchBar>Search in trade stock: </WDYS.SearchBar>
+	<WDYS.MarketValue>Market value. This do not take into account your potential colonist price impact.</WDYS.MarketValue>
+	<WDYS.Quit>Close</WDYS.Quit>
+	<WDYS>What's for sale?</WDYS>
+
+	<WDYS.OnlyIndustrial>Only industrial and higher tech level faction can send you their trade stock informations: </WDYS.OnlyIndustrial>
+    <WDYS.NeedTradeConsole>You need a trade console to receive trade stock informations: </WDYS.NeedTradeConsole>
+
+</LanguageData>

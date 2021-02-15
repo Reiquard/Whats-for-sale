@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>What's for sale?</name>
+    <author>Kikohi</author>
+    <description>What's for sale allows you to know what the world settlement sells before visiting them.
+
+By default you only get trade stock informations when you built a powered comms console. And only industrial and higher tech level faction will be able to send you theses informations.
+But there is also settings that allow to change those behaviors. Go check them out!</description>
+    <packageId>kikohi.whatsforsale</packageId>
+    <supportedVersions>
+        <li>1.2</li>
+    </supportedVersions>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
+</ModMetaData>
